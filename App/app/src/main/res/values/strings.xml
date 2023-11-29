@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Deliverable1</string>
+    <string name="title_activity_admin_log">AdminLog</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="please_select_a_role">Please select a role:</string>
+    <string name="customer">Customer</string>
+    <string name="administrator">Administrator</string>
+    <string name="branch_employee">Branch Employee</string>
+    <string name="employee">Employee</string>
+    <string name="costumer">Costumer</string>
+    <string name="this_is_admin">This is Admin</string>
+    <string name="this_is_employee">This is Employee</string>
+    <string name="this_is_customer">This is Customer</string>
+    <string name="button">Button</string>
+    <string name="login_into_account">Login Into Account</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="register_a_new_account">Register a New Account</string>
+    <string name="register_now">Register Now</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="edit_branch_employee_account">Edit Branch/Employee Account</string>
+    <string name="edit_service">Edit Service</string>
+    <string name="add_new_service">Add New Service</string>
+    <string name="intro">Intro</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="account_s_current_username">Account\'s current username</string>
+    <string name="username">Username</string>
+    <string name="account">Account:</string>
+    <string name="edit_costumer_employee_account">edit costumer/employee account</string>
+    <string name="view_services">View services</string>
+    <string name="view_costumers">View Costumers</string>
+    <string name="view_employees">View Employees</string>
+    <string name="accounts">Accounts</string>
+    <string name="services">Services</string>
+    <string name="delete_service">Delete Service</string>
+    <string name="update_service">Update Service</string>
+    <string name="costumer_s_information">Costumer\'s information</string>
+    <string name="service_name">Service name</string>
+    <string name="hourly_rate">Hourly rate</string>
+    <string name="service">Service:</string>
+    <string name="create_service">Create Service</string>
+    <string name="specification_with"><![CDATA[- Specification with <>]]></string>
+    <string name="separated_by_comma">- Separated by comma</string>
+    <string name="for_deleting_only_service_name_is_required">- For deleting, only service name is required</string>
+    <string name="notifications">Notifications</string>
+    <string name="view_notifications">View Notifications</string>
+    <string name="branches">Branches</string>
+    <string name="view_all_branches">View All Branches</string>
+    <string name="search_for_a_branch">Search For A Branch</string>
+    <string name="service_requests">Service Requests</string>
+    <string name="submit_service_request">Submit Service Request</string>
+    <string name="rate_your_experience_with_a_branch">Rate your experience with a branch</string>
+    <string name="rate">Rate</string>
+
+    <string-array name="types">
+        <item>Employee</item>
+        <item>Costumer</item>
+    </string-array>
+
+</resources>

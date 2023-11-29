@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/accept_decline_service_popup.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/accept_decline_service_request_popup.xml" value="0.22056159420289856" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.275" />
+        <entry key="app/src/main/res/layout/activity_admin_log.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/activity_costumer.xml" value="0.275" />
+        <entry key="app/src/main/res/layout/activity_employee.xml" value="0.275" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.39311594202898553" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.275" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/add_service.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/add_service_to_branch_popup.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/customer_search_for_branch_popup.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/delete_account_popup.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/edit_branch_profile_popup.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/edit_service_popup.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/submit_service_request_popup.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/veiw_available_sevices_popup.xml" value="0.38903985507246375" />
+        <entry key="app/src/main/res/layout/veiw_service_popup.xml" value="0.38903985507246375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
